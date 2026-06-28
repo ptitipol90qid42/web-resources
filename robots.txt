@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ptitipol90qid42.github.io/web-resources/sitemap.xml
